@@ -1,0 +1,1 @@
+A project to recreate a website about the song Walking In Memphis, using semantic html tags such as section, main, figure, and figcaption. Links and images are also included.
